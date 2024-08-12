@@ -6,7 +6,7 @@
 <img align= "right" alt= "Coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif">
 
 
-- 🔭 I’m currently working on [Barbies Touch](https://www.barbiestouch.com)
+- 🔭 I’m currently working on [Dhella](https://app.elixonnhealthcare.co.uk/)
 
 - 🌱 I’m currently learning **Angular, Vue, Django**
 
