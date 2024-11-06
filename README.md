@@ -8,15 +8,15 @@
 
 - 🔭 I’m currently working on [Dhella](https://app.elixonnhealthcare.co.uk/)
 
-- 🌱 I’m currently learning **Angular, Vue, Django**
+- 🌱 I’m currently learning **Angular, Solidity, Django**
 
 - 👯 I’m looking to collaborate on **Any Interesting projects**
 
-- 💬 Ask me about **Fintech apps, MERN**
+- 💬 Ask me about **Fintech apps, MERN, Blochain**
 
-- 📫 How to reach me [here](mailto:unikwebtech@gmail.com)
+- 📫 How to reach me [here](mailto:victorogunbiyi69@gmail.com)
 
-- ⚡ Fun fact **I think i am different and I love Animes**
+- ⚡ Fun fact **I love Animes & Philosophy**
 
 -  😉 Check out my portfolio website [here](https://coomingsoon.com/)
 
