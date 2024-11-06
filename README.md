@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Any Interesting projects**
 
-- 💬 Ask me about **Fintech apps, MERN, Blochain**
+- 💬 Ask me about **Fintech apps, MERN, Blockchain**
 
 - 📫 How to reach me [here](mailto:victorogunbiyi69@gmail.com)
 
