@@ -44,17 +44,8 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Let's connect...***
 
 <div align="center">
-<a href="https://github.com/xwaynex" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/xaint_wayne" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.kaggle.com/xwaynex" target="_blank">
-<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
-</a>
 <a href="https://www.facebook.com/xwaynex" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt=facebook" />
 </a>  
 <a href="https://wa.me/2347054020272">
 <img src="https://img.shields.io/badge/Whatsapp-rgb(85, 85, 85)?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
@@ -68,26 +59,7 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/xwaynex"><img src="http://github-readme-streak-stats.herokuapp.com?username=xwaynex&count_private=true&theme=midnight-purple&border=7f3ace&ring=80ff00&fire=80ff00" /></a>
-</p>
-
-<p align="center">
-<a href="https://github.com/xwaynex"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=xwaynex&theme=midnight-purple&show_icons=true&count_private=true&layout=compact&border_color=7f3ace" alt="xwaynex"/></a>
-<a href="https://github.com/xwaynex"><img width="55%" src="https://github-readme-stats.vercel.app/api/?username=xwaynex&show_icons=true&count_private=true&theme=midnight-purple&show_icons=true&border_color=7f3ace" alt="xwaynex"/></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=xwaynex&theme=midnight-purple&show_icons=true&count_private=true&layout=compact&border_color=7f3ace" alt="my github stats" height="160px"/>
+<img src="https://github-readme-stats.vercel.app/api/?username=xwaynex&show_icons=true&count_private=true&theme=midnight-purple&show_icons=true&border_color=7f3ace" alt="my top languages"  height="160px"/>
 </p>
 <br/>
-
-<hr/>
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=tg6l1xkwz2wtxwq6tby05ghv7&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>  
-
-<hr/>
-
-<h3 align="center">Visitor Count</h3>
-<br/>
-<p align="center"> 
-<a href="https://github.com/xwaynex"><img src="https://profile-counter.glitch.me/xwaynex/count.svg" style="height:auto; width:300px;"/></a><br/>
-<br/>
-
-<hr/>
-
