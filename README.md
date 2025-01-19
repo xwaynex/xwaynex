@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on [Dhella](https://app.elixonnhealthcare.co.uk/)
 
-- 🌱 I’m currently learning **Angular, Solidity, Django**
+- 🌱 I’m currently learning **Angular, Solidity, Rust, Django**
 
 - 👯 I’m looking to collaborate on **Any Interesting projects**
 
-- 💬 Ask me about **Fintech apps, MERN, Blockchain**
+- 💬 Ask me about **MERN, Blockchain**
 
 - 📫 How to reach me [here](mailto:victorogunbiyi69@gmail.com)
 
