@@ -14,11 +14,11 @@
 
 - 💬 Ask me about **MERN, Blockchain, MCP**
 
-- 📫 How to reach me [here](mailto:victorogunbiyi69@gmail.com)
+- 📫 How to reach me <a href="https://www.linkedin.com/in/victor-ogunbiyi1/detail/contact-info/" target="_blank" rel="noopener noreferrer">here</a>
 
 - ⚡ Fun fact **I love Animes & Philosophy**
 
--  😉 Check out my portfolio website [here](https://coomingsoon.com/)
+-  😉 Check out my portfolio website <a href="https://portfolio-nine-beta-74.vercel.app/" target="_blank" rel="noopener noreferrer">here</a>
 
 <hr/>
 
