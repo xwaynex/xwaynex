@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on [Future Exchange](https://osaka6.netlify.app/)
 
-- 🌱 I’m currently learning **Angular, Solidity, Rust, Django**
+- 🌱 I’m currently learning **Solidity, Rust, Django**
 
 - 👯 I’m looking to collaborate on **Any Interesting projects**
 
-- 💬 Ask me about **MERN, Blockchain**
+- 💬 Ask me about **MERN, Blockchain, MCP**
 
 - 📫 How to reach me [here](mailto:victorogunbiyi69@gmail.com)
 
