@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **MERN, Blockchain, MCP**
 
-- 📫 How to reach me <a href="https://www.linkedin.com/in/victor-ogunbiyi1/detail/contact-info/" target="_blank" rel="noopener noreferrer">here</a>
+- 📫 How to reach me <a href="https://www.linkedin.com/in/victor-ogunbiyi1" target="_blank" rel="noopener noreferrer">here</a>
 
 - ⚡ Fun fact **I love Animes & Philosophy**
 
