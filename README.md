@@ -6,7 +6,7 @@
 <img align= "right" alt= "Coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif">
 
 
-- 🔭 I’m currently working on [Adept Ai](https://adept.base44.app//)
+- 🔭 I’m currently working on [Adept Ai](https://adept.ml/)
 
 - 🌱 I’m currently learning **Solidity, Rust, Django**
 
