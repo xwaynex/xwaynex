@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Any Interesting projects**
 
-- 💬 Ask me about **MERN, Blockchain, MCP**
+- 💬 Ask me about **Blockchain, MCP**
 
 - 📫 How to reach me [here](https://www.linkedin.com/in/victor-ogunbiyi1)
 
