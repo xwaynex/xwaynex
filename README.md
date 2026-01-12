@@ -5,13 +5,20 @@
 
 <img align= "right" alt= "Coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif">
 
+
 - 🔭 I’m currently working on [Adept Ai](https://adept.ml/)
+
 - 🌱 I’m currently learning **Solidity, Rust, Django**
+
 - 👯 I’m looking to collaborate on **Any Interesting projects**
+
 - 💬 Ask me about **Blockchain, MCP**
+
 - 📫 How to reach me [here](https://www.linkedin.com/in/victor-ogunbiyi1)
+
 - ⚡ Fun fact **I love Animes & Philosophy**
-- 😉 Check out my portfolio website [here](https://portfolio-nine-beta-74.vercel.app/)
+
+-  😉 Check out my portfolio website [here](https://portfolio-nine-beta-74.vercel.app/)
 
 <hr/>
 
